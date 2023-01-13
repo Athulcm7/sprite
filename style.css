@@ -1,0 +1,423 @@
+
+body{
+    margin: 0px;
+}
+.one{
+    background-color: #009b4e;
+    height: 88px;
+    width: 100%;
+    padding-top: 10px;
+    position:fixed;
+    z-index: 5;
+
+   
+
+}
+.logo{
+    height: 86px;
+    width: 157px;
+    margin-top: -8px;
+    margin-left: 10px;
+   
+    
+}
+.img1{
+    height: 68px;
+    width: 117px;
+    margin-top: 16px;
+    margin-left: 37px;
+    
+}
+.a{
+    height: 21px;
+    width: 144px;
+   margin-top: 10px;
+    margin-left: 55px;
+    color: white;
+    position: absolute;
+    top: 30px;
+    text-align: left;
+    border: none;
+    background-color: transparent;
+    font-weight: 900;
+}
+.b{
+    height: 21px;
+    width: 144px;
+   margin-top: 10px;
+    margin-left: 180px;
+    color: white;
+    position: absolute;
+    top: 30px; 
+    text-align: left;
+    border: none;
+    background-color: transparent;
+    font-weight: 900;
+}
+.c{
+    height: 21px;
+    width: 144px;
+   margin-top: 10px;
+    margin-left: 346px;
+    color: white;
+    position: absolute;
+    top: 30px;
+    text-align: left; 
+    border: none;
+    background-color: transparent;
+    font-weight: 900;
+}
+.two{
+    background-color: #00b13f;
+    height: 415px;
+    width: 50%;
+    position: absolute;
+    top: 98px;
+ 
+   margin-bottom: 10px;
+    
+
+}
+.img2{
+ 
+  
+    height: 412px;
+    width: 759px;
+    margin-left: 759px;
+    position: absolute;
+    top: 0px;
+    
+}
+.head{
+    height: 10px;
+    width: 240px;
+   padding-top: 70px;
+    margin-left: 200px;
+    color: white;
+    font-weight: bolder;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+
+}
+.bo1{
+    margin-top: 80px;
+    margin-left: 250px;
+    color: green;
+    font-size: large;
+    font-weight: 600;
+}
+.bo1:hover{
+    color: white;
+    background-color: black;
+}
+.four{
+    background-color: white;
+    height: 180px;
+    width: 100%;
+    position: absolute;
+    margin-top: 513px;
+    
+}
+.head2{
+    margin-left: 400px;
+    margin-top: 40px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    
+    font-size: x-large;
+    font-weight: 800;
+    
+
+}
+.para1{
+    height: 10px;
+    width: 755px;
+ 
+    margin-left: 400px;
+    margin-top: -13px;
+
+}
+.five{
+    background-color: white;
+    height: 520px;
+    width: 100%;
+    position: absolute;
+    margin-top: 1234px;
+    margin-left: 0px;
+}
+.wrapper{
+    position: absolute;
+    left: 100px;
+    padding-top: 680px;
+    padding-left: 300px;
+    height: 100px;
+    width: 200px;
+}
+.img3{
+    height: 520px;
+    width: 700px;
+    
+    margin-left: 460px;
+}
+.six{
+    background-color: #009b4e;
+    height: 444px;
+    width: 100%;
+    position: absolute;
+    margin-top: 1754px;
+}
+.img4{
+     height: 105px;
+    width: 177px;
+  
+    margin-left: -11px;
+}
+.lastlogo{
+   
+    height: 87px;
+    width: 160px;
+    margin-top: 60px;
+    margin-left: 185px;
+}
+.connect{
+    margin-top: -119px;
+    margin-left: 210px;
+    color: white;
+    width: 180px;
+    font-size: medium;
+    font-weight: 900;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.product{
+    margin-top: -40px;
+    margin-left: 908px;
+    color: white;
+    font-size: ;
+    font-weight: 900;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+
+}
+.aa{
+    margin-left: 945px;
+    margin-top: 46px;
+    width: 1px;
+    color: white;
+    font-size: smaller;
+    font-weight: 900;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+
+}
+.bb{
+    margin-left: 945px;
+    margin-top: -4px;
+   
+    height: 10px;
+    width: 188px;
+    color: white;
+    font-size: smaller;
+    font-weight: 900;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+
+}
+.cc{
+    margin-left: 945px;
+    margin-top: 16px;
+   
+    height: 17px;
+    width: 188px;
+    color: white;
+    font-size: smaller;
+    font-weight: 900;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.dd{
+    margin-left: 945px;
+    margin-top: -4px;
+   
+    height: 20px;
+    width: 188px;
+    color: white;
+    font-size:smaller;
+    font-weight: 900;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.ee{
+    margin-left: 945px;
+    margin-top: -8px;
+   
+    height: 10px;
+    width: 205px;
+    color: white;
+    font-size: smaller;
+    font-weight: 900;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.gg{
+    width: 383px;
+    margin-top: 120px;
+    margin-left: 377px;
+    color: white;
+    font-size: small;
+    font-weight: 900;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+
+}
+.hh{
+    width: 860px;
+    margin-top: 27px;
+    margin-left: 170px;
+    color: white;
+    font-size: small;
+    font-weight: 900;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.logo1{
+    margin-top: 30px;
+    margin-left: 1200px;
+    height: 23px;
+    width: 24px;
+    position: absolute;
+    top: 10px;
+    background-color: transparent;
+}
+.logo2{
+    margin-top: 30px;
+    margin-left: 1249px;
+    height: 23px;
+    width: 24px;
+    position: absolute;
+    top: 10px;
+    background-color: transparent;
+}
+.logo3{
+    margin-top: 30px;
+    margin-left: 1297px;
+    height: 23px;
+    width: 24px;
+    position: absolute;
+    top: 10px;
+    background-color: transparent;
+}
+.logo4{
+    margin-top: 30px;
+    margin-left: 1346px;
+    height: 23px;
+    width: 24px;
+    position: absolute;
+    top: 10px;
+    background-color: transparent;
+}
+.logo5{
+    margin-top: 30px;
+    margin-left: 1394px;
+    height: 23px;
+    width: 24px;
+    position: absolute;
+    top: 10px;
+    background-color: transparent;
+}
+.logo1:hover{
+    color: white;
+    background-color: black;
+    height: 24px;
+    width: 24px;
+} 
+.logo2:hover{
+    color: white;
+    background-color: black;
+    height: 24px;
+    width: 24px;
+}
+.logo3:hover{
+    color: white;
+    background-color: black;
+    height: 24px;
+    width: 24px;
+}
+.logo4:hover{
+    color: white;
+    background-color: black;
+    height: 24px;
+    width: 24px;
+}
+.logo5:hover{
+    color: white;
+    background-color: black;
+    height: 24px;
+    width: 24px;
+}
+.aa:hover{
+    color: white;
+    background-color: black;
+    height: 17px;
+    width: 173px;
+}
+.bb:hover{
+    color: white;
+    background-color: black;
+    height: 17px;
+    width: 173px;
+}.cc:hover{
+    color: white;
+    background-color: black;
+    height: 17px;
+    width: 173px;
+}.dd:hover{
+    color: white;
+    background-color: black;
+    height: 17px;
+    width: 173px;
+}.ee:hover{
+    color: white;
+    background-color: black;
+    height: 17px;
+    width: 173px;
+}
+.logo6{
+    margin-top: 140px;
+    margin-left: 340px;
+    position: absolute;
+    top: 10px;
+    height: 33px;
+    width: 33px;
+}
+.logo7{
+    margin-top: 140px;
+    position: absolute;
+    top:10px;
+    margin-left: 395px;
+    height: 33px;
+    width: 33px;
+}
+.logo8{
+    margin-top: 140px;
+    position: absolute;
+    top: 10px;
+    margin-left: 450px;
+    height: 33px;
+    width: 33px;
+}
+.logo9{
+    margin-top: 140px;
+    position: absolute;
+    top: 10px;
+    margin-left: 504px;
+    height: 33px;
+    width: 33px;
+}
+.logo10{
+    margin-top: 140px;
+    position: absolute;
+    top: 10px;
+    margin-left: 560px;
+    height: 33px;
+    width: 33px;
+}
+.logouser{
+    margin-top: 30px;
+    margin-left: 1454px;
+    height: 25px;
+    width: 26px;
+    position: absolute;
+    top: 10px;
+    background-color: transparent;
+    color: white;
+}
